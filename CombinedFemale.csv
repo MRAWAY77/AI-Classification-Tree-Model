@@ -1,0 +1,153 @@
+,Age,Cabin,Embarked,Fare,ID,Name,Parch,PassengerId,Pclass,Prediction,Sex,SibSp,Ticket,Unnamed: 0,Unnamed: 0.1
+0,76.0,C46,S,78.85,14,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",0,988,1,1,female,1,19877,0,
+1,63.0,C55 C57,S,221.7792,17,"Straus, Mrs. Isidor (Rosalie Ida Blun)",0,1006,1,1,female,1,PC 17483,1,
+2,64.0,E45,C,83.1583,23,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",2,1071,1,1,female,0,PC 17756,2,
+3,64.0,B26,S,26.55,33,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",1,1197,1,1,female,1,112901,3,
+4,47.0,E31,S,61.175,2,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",0,906,1,1,female,1,W.E.P. 5734,0,
+5,48.0,B57 B59 B63 B66,C,262.375,4,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",3,916,1,1,female,1,PC 17608,1,
+6,45.0,D19,S,52.5542,6,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",0,936,1,1,female,1,11753,2,
+7,60.0,D15,C,76.2917,7,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",0,940,1,1,female,0,11813,3,
+8,60.0,C23 C25 C27,S,263.0,10,"Fortune, Mrs. Mark (Mary McDougald)",4,961,1,1,female,1,19950,4,
+9,55.0,C101,S,25.7,12,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",0,969,1,1,female,2,11770,5,
+10,43.0,C116,C,55.4417,15,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",0,992,1,1,female,1,11778,6,
+11,50.0,C80,C,211.5,27,"Widener, Mrs. George Dunton (Eleanor Elkins)",1,1110,1,1,female,1,113503,7,
+12,53.0,,C,27.4458,28,"Candee, Mrs. Edward (Helen Churchill Hungerford)",0,1116,1,1,female,0,PC 17606,8,
+13,48.0,C86,C,106.425,30,"Douglas, Mrs. Walter Donald (Mahala Dutton)",0,1131,1,1,female,1,PC 17761,9,
+14,55.0,,C,27.7208,31,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",0,1132,1,1,female,0,112377,10,
+15,55.0,C32,C,135.6333,34,"White, Mrs. John Stuart (Ella Holmes)",0,1206,1,1,female,0,PC 17760,11,
+16,58.0,B51 B53 B55,C,512.3292,36,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",1,1235,1,1,female,0,PC 17755,12,
+17,45.0,D10 D12,C,63.3583,37,"Greenfield, Mrs. Leo David (Blanche Strouse)",1,1242,1,1,female,0,PC 17759,13,
+18,59.0,C101,S,51.4792,38,"Brown, Mrs. John Murray (Caroline Lane Lamson)",0,1248,1,1,female,2,11769,14,
+19,45.0,,C,59.4,40,"Gibson, Mrs. Leonard (Pauline C Boeson)",1,1260,1,1,female,0,112378,15,
+20,54.0,A34,S,81.8583,42,"Dodge, Mrs. Washington (Ruth Vidaver)",1,1266,1,1,female,1,33638,16,
+21,45.0,,C,262.375,43,"Bowen, Miss. Grace Scott",0,1267,1,1,female,0,PC 17608,17,
+22,51.0,D28,S,39.4,44,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",1,1283,1,1,female,0,PC 17592,18,
+23,48.0,B41,C,79.2,46,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",1,1289,1,1,female,1,13567,19,
+24,23.0,B45,S,82.2667,1,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",0,904,1,1,female,1,21228,0,
+25,22.0,B36,C,61.9792,5,"Ostby, Miss. Helene Ragnhild",1,918,1,1,female,0,113509,1,
+26,28.0,C23 C25 C27,S,263.0,8,"Fortune, Miss. Ethel Flora",2,945,1,1,female,3,19950,2,
+27,36.0,B61,C,262.375,9,"Chaudanson, Miss. Victorine",0,951,1,1,female,0,PC 17608,3,
+28,35.0,C130,C,211.5,11,"Geiger, Miss. Amalie",0,966,1,1,female,0,113503,4,
+29,27.0,B71,S,52.0,13,"Davidson, Mrs. Thornton (Orian Hays)",2,984,1,1,female,1,F.C. 12750,5,
+30,36.0,A29,C,31.6792,16,"Evans, Miss. Edith Corse",0,1004,1,1,female,0,PC 17531,6,
+31,35.0,C28,C,57.75,18,"Schabert, Mrs. Paul (Emma Mock)",0,1014,1,1,female,1,13236,7,
+32,33.0,,S,151.55,19,"Daniels, Miss. Sarah",0,1033,1,1,female,0,113781,8,
+33,23.0,C54,C,83.1583,20,"Earnshaw, Mrs. Boulton (Olive Potter)",1,1042,1,1,female,0,11767,9,
+34,29.0,C97,S,221.7792,21,"Bird, Miss. Ellen",0,1048,1,1,female,0,PC 17483,10,
+35,27.0,B58 B60,C,247.5208,25,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",1,1076,1,1,female,1,PC 17558,11,
+36,33.0,A11,C,27.7208,26,"Rosenbaum, Miss. Edith Louise",0,1100,1,1,female,0,PC 17613,12,
+37,21.0,,S,26.55,29,"Willard, Miss. Constance",0,1123,1,1,female,0,113795,13,
+38,26.0,C89,C,136.7792,32,"Clark, Mrs. Walter Miller (Virginia McDowell)",0,1164,1,1,female,1,13508,14,
+39,39.0,,S,211.3375,35,"Kreuchen, Miss. Emilie",0,1216,1,1,female,0,24160,15,
+40,25.0,E50,C,55.4417,39,"Harder, Mrs. George Achilles (Dorothy Annan)",0,1256,1,1,female,1,11765,16,
+41,31.0,E39 E41,C,134.5,41,"Wilson, Miss. Helen Alice",0,1263,1,1,female,0,16966,17,
+42,30.0,C7,S,164.8667,47,"Bonnell, Miss. Caroline",0,1292,1,1,female,0,36928,18,
+43,22.0,,C,59.4,48,"Gibson, Miss. Dorothy Winifred",1,1294,1,1,female,0,112378,19,
+44,37.0,C78,Q,90.0,49,"Minahan, Mrs. William Edward (Lillian E Thorpe)",0,1303,1,1,female,1,19928,20,
+45,39.0,C105,C,108.9,50,"Oliva y Ocana, Dona. Fermina",0,1306,1,1,female,0,PC 17758,21,
+46,18.0,D30,S,53.1,24,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",0,1074,1,1,female,1,113773,0,
+47,18.0,C31,S,60.0,45,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",0,1287,1,1,female,1,13695,1,
+48,,,S,31.6833,3,"Flegenheim, Mrs. Alfred (Antoinette)",0,914,1,Undef,female,0,PC 17598,0,
+49,,,C,27.7208,22,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",0,1060,1,Undef,female,0,17770,1,
+0,60.0,,S,26.0,13,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",0,1105,2,1,female,1,24065,0,
+1,45.0,,S,30.0,17,"Christy, Mrs. (Alice Frances)",2,1133,2,1,female,0,237789,1,
+2,48.0,,S,36.75,26,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",2,1222,2,1,female,0,C.A. 33112,2,
+3,24.0,,C,27.7208,1,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",0,907,2,1,female,1,SC/PARIS 2167,0,
+4,30.0,,S,13.0,2,"Corbett, Mrs. Walter H (Irene Colvin)",0,935,2,1,female,0,237249,1,
+5,29.0,,S,26.0,5,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",0,1011,2,1,female,1,SC/AH 29037,2,
+6,26.0,,S,13.5,7,"Wright, Miss. Marion",0,1054,2,1,female,0,220844,3,
+7,36.0,F4,S,39.0,10,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",3,1070,2,1,female,0,230136,4,
+8,21.0,,S,21.0,11,"Phillips, Miss. Alice Frances Louisa",1,1078,2,1,female,0,S.O./P.P. 2,5,
+9,30.0,,C,13.8583,14,"Duran y More, Miss. Florentina",0,1112,2,1,female,1,SC/PARIS 2148,6,
+10,22.0,F33,S,10.5,15,"Cook, Mrs. (Selena Rogers)",0,1114,2,1,female,0,W./C. 14266,7,
+11,22.0,,S,21.0,18,"Karnes, Mrs. J Frank (Claire Bennett)",0,1138,2,1,female,0,F.C.C. 13534,8,
+12,29.0,,S,26.0,19,"Hold, Mrs. Stephen (Annie Margaret Hill)",0,1140,2,1,female,1,26707,9,
+13,29.0,,S,23.0,22,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",2,1154,2,1,female,0,29103,10,
+14,31.0,,S,21.0,27,"Walcroft, Miss. Nellie",0,1241,2,1,female,0,F.C.C. 13528,11,
+15,24.0,,C,37.0042,28,"Mallet, Mrs. Albert (Antoinette Magnin)",1,1253,2,1,female,1,S.C./PARIS 2079,12,
+16,31.0,,S,21.0,29,"Ware, Mrs. John James (Florence Louise Long)",0,1254,2,1,female,0,CA 31352,13,
+17,24.0,,S,65.0,30,"Herman, Miss. Kate",2,1277,2,1,female,1,220845,14,
+18,20.0,,S,23.0,3,"Hocking, Miss. Ellen Nellie""""",1,944,2,1,female,2,29105,0,
+19,12.0,,S,15.75,6,"Watt, Miss. Bertha J",0,1012,2,1,female,0,C.A. 33595,1,
+20,15.0,,S,39.0,8,"Brown, Miss. Edith Eileen",2,1067,2,1,female,0,29750,2,
+21,20.0,,S,36.75,9,"Sincock, Miss. Maude",0,1068,2,1,female,0,C.A. 33112,3,
+22,8.0,,S,26.0,12,"Quick, Miss. Winifred Vera",1,1095,2,1,female,1,26360,4,
+23,18.0,,S,13.0,16,"Hiltunen, Miss. Marta",1,1130,2,1,female,1,250650,5,
+24,0.92,,S,27.75,20,"West, Miss. Barbara J",2,1142,2,1,female,1,C.A. 34651,6,
+25,19.0,,S,13.0,21,"Bentham, Miss. Lilian W",0,1150,2,1,female,0,28404,7,
+26,20.0,,S,26.0,23,"Bryhl, Miss. Dagmar Jenny Ingeborg ",0,1167,2,1,female,1,236853,8,
+27,1.0,,C,41.5792,24,"Laroche, Miss. Louise",2,1188,2,1,female,1,SC/Paris 2123,9,
+28,12.0,F4,S,39.0,25,"Becker, Miss. Ruth Elizabeth",1,1218,2,1,female,2,230136,10,
+29,,,S,21.0,4,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",0,957,2,1,female,0,F.C.C. 13534,0,
+0,30.0,,Q,7.6292,1,"Connolly, Miss. Kate",0,898,3,1,female,0,330972,0,0.0
+1,22.0,,Q,7.725,2,"Bradley, Miss. Bridget Delia",0,955,3,1,female,0,334914,1,1.0
+2,18.0,,Q,7.8792,3,"Burns, Miss. Mary Delia",0,958,3,1,female,0,330963,2,2.0
+3,24.0,,Q,7.75,4,"Mulvihill, Miss. Bertha E",0,962,3,1,female,0,382653,3,3.0
+4,24.0,,Q,7.75,5,"Doyle, Miss. Elizabeth",0,971,3,1,female,0,368702,4,4.0
+5,27.0,,Q,7.8792,6,"Barry, Miss. Julia",0,978,3,1,female,0,330844,5,5.0
+6,,,Q,7.75,7,"O'Donoghue, Ms. Bridget",0,980,3,1,female,0,364856,6,6.0
+7,,,Q,7.7792,8,"Shine, Miss. Ellen Natalia",0,1003,3,1,female,0,330968,7,7.0
+8,18.5,,Q,7.2833,9,"Buckley, Miss. Katherine",0,1005,3,1,female,0,329944,8,8.0
+9,,,Q,23.25,10,"McCoy, Miss. Alicia",0,1019,3,1,female,2,367226,9,9.0
+10,,,Q,7.7333,11,"Smyth, Miss. Julia",0,1052,3,1,female,0,335432,10,10.0
+11,,,Q,15.5,12,"Murphy, Miss. Nora",0,1092,3,1,female,0,36568,11,11.0
+12,35.0,,Q,7.75,13,"McGowan, Miss. Katherine",0,1098,3,1,female,0,9232,12,12.0
+13,,,Q,7.8792,14,"Mahon, Miss. Bridget Delia",0,1108,3,1,female,0,330924,13,13.0
+14,,,Q,7.75,15,"McNeill, Miss. Bridget",0,1119,3,1,female,0,370368,14,14.0
+15,,,Q,15.5,16,"Lennon, Miss. Mary",0,1165,3,1,female,1,370371,15,15.0
+16,,,Q,7.75,17,"Fleming, Miss. Honora",0,1174,3,1,female,0,364859,16,16.0
+17,30.0,,Q,6.95,18,"Daly, Miss. Margaret Marcella Maggie""""",0,1183,3,1,female,0,382650,17,17.0
+18,,,Q,7.75,19,"McCarthy, Miss. Catherine Katie""""",0,1196,3,1,female,0,383123,18,18.0
+19,37.0,,Q,7.75,20,"Carr, Miss. Jeannie",0,1205,3,1,female,0,368364,19,19.0
+20,17.0,,Q,7.7333,21,"Hagardon, Miss. Kate",0,1207,3,1,female,0,AQ/3. 30631,20,20.0
+21,,,Q,7.7208,22,"Riordan, Miss. Johanna Hannah""""",0,1300,3,1,female,0,334915,21,21.0
+22,,,Q,7.75,23,"Naughton, Miss. Hannah",0,1302,3,1,female,0,365237,22,22.0
+23,,,C,15.2458,4,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",2,1117,3,0,female,0,2661,23,0.0
+24,,,C,14.4542,5,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",0,1141,3,0,female,1,2660,24,1.0
+25,9.0,,C,15.2458,6,"Touma, Miss. Maria Youssef",1,1175,3,0,female,1,2650,25,2.0
+26,19.0,,C,15.7417,7,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",1,1225,3,0,female,1,2653,26,3.0
+27,18.0,,C,7.2292,1,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",0,900,3,0,female,0,2657,27,0.0
+28,45.0,,C,7.225,2,"Assaf Khalil, Mrs. Mariana (Miriam"")""",0,911,3,0,female,0,2696,28,1.0
+29,16.0,,C,8.5167,3,"Thomas, Mrs. Alexander (Thamine Thelma"")""",1,996,3,0,female,1,2625,29,2.0
+30,38.0,,C,7.2292,8,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",0,1239,3,0,female,0,2688,30,3.0
+31,21.0,,S,8.6625,1,"Cacic, Miss. Manda",0,929,3,0,female,0,315087,0,0.0
+32,29.0,,S,7.925,2,"Nieminen, Miss. Manta Josefina",0,964,3,0,female,0,3101297,1,1.0
+33,23.0,,S,7.8542,4,"Lundin, Miss. Olga Elida",0,1049,3,0,female,0,347469,2,2.0
+34,22.0,,S,8.9625,5,"Hellstrom, Miss. Hilda Maria",0,1061,3,0,female,0,7548,3,3.0
+35,23.0,,S,8.6625,6,"Oreskovic, Miss. Jelka",0,1172,3,0,female,0,315085,4,4.0
+36,22.0,,S,39.6875,7,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",0,1259,3,0,female,0,3101295,5,5.0
+37,28.0,,S,7.775,8,"Henriksson, Miss. Jenny Lovisa",0,1304,3,0,female,0,347086,6,6.0
+38,33.0,,S,20.575,2,"Dean, Mrs. Bertram (Eva Georgetta Light)",2,924,3,1,female,1,C.A. 2315,7,0.0
+39,36.0,,S,15.9,2,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",2,941,3,1,female,0,C.A. 37671,8,0.0
+40,36.0,,S,12.1833,5,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",2,1045,3,1,female,0,350405,9,1.0
+41,26.0,,S,13.775,7,"Peacock, Mrs. Benjamin (Edith Nile)",2,1051,3,1,female,0,SOTON/O.Q. 3101315,10,2.0
+42,47.0,,S,7.0,1,"Wilkes, Mrs. James (Ellen Needs)",0,893,3,0,female,1,363272,11,0.0
+43,45.0,,S,14.1083,31,"Hansen, Mrs. Claus Peter (Jennie L Howard)",0,1201,3,0,female,1,350026,12,1.0
+44,1.0,G6,S,16.7,3,"Sandstrom, Miss. Beatrice Irene",1,1009,3,1,female,1,PP 9549,13,0.0
+45,1.0,,S,12.1833,7,"Klasen, Miss. Gertrud Emilia",1,1155,3,1,female,1,350405,14,1.0
+46,2.0,,S,20.2125,8,"Rosblom, Miss. Salli Helena",1,1176,3,1,female,1,370129,15,2.0
+47,0.17,,S,20.575,10,"Dean, Miss. Elizabeth Gladys Millvina""""",2,1246,3,1,female,1,C.A. 2315,16,3.0
+48,19.0,,S,16.1,11,"McNamee, Mrs. Neal (Eileen O'Leary)",0,1275,3,1,female,1,376566,17,4.0
+49,3.0,,S,13.775,12,"Peacock, Miss. Treasteall",1,1301,3,1,female,1,SOTON/O.Q. 3101315,18,5.0
+50,10.0,,S,46.9,5,"Goodwin, Miss. Jessie Allis",2,1032,3,0,female,5,CA 2144,19,0.0
+51,17.0,,S,16.1,3,"Cribb, Miss. Laura Alice",1,1017,3,1,female,0,371362,20,0.0
+52,22.0,,S,12.2875,1,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",1,896,3,0,female,1,3101298,21,0.0
+53,22.0,,S,13.9,3,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",0,982,3,0,female,1,347072,22,1.0
+54,26.0,,S,22.025,4,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",1,1057,3,0,female,1,315153,23,2.0
+55,30.0,,S,15.55,5,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",0,1251,3,0,female,1,349910,24,3.0
+56,38.0,,S,7.775,14,"Andersson, Miss. Ida Augusta Margareta",2,1106,3,Undef,female,4,347091,25,0.0
+57,18.0,,S,8.05,1,"Badman, Miss. Emily Louisa",0,979,3,0,female,0,A/4 31416,26,0.0
+58,20.0,,S,7.8542,2,"Braf, Miss. Elin Ester Maria",0,990,3,0,female,0,347471,27,1.0
+59,18.0,,S,7.775,3,"Nilsson, Miss. Berta Olivia",0,1089,3,0,female,0,347066,28,2.0
+60,16.0,,S,7.65,4,"Abelseth, Miss. Karen Marie",0,1237,3,0,female,0,348125,29,3.0
+61,22.0,,S,8.6625,18,"Kink, Miss. Maria",0,1268,3,0,female,2,315152,30,0.0
+62,,,S,23.45,5,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",2,925,3,0,female,1,W./C. 6607,31,0.0
+63,,,S,8.05,6,"Roth, Miss. Sarah A",0,928,3,0,female,0,342712,32,1.0
+64,,,S,25.4667,15,"Lefebre, Mrs. Frank (Frances)",4,1024,3,0,female,0,4133,33,2.0
+65,,,S,69.55,23,"Sage, Miss. Ada",2,1080,3,0,female,8,CA. 2343,34,3.0
+66,,,S,8.1125,25,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",0,1091,3,0,female,0,65305,35,4.0
+67,,,S,8.05,28,"Howard, Miss. May Elizabeth",0,1160,3,0,female,0,A. 2. 39186,36,5.0
+68,,,S,69.55,35,"Sage, Mrs. John (Annie Bullen)",9,1257,3,0,female,1,CA. 2343,37,6.0
+69,,,S,14.5,38,"Risien, Mrs. Samuel (Emma)",0,1274,3,0,female,0,364498,38,7.0
+70,27.0,,S,7.925,2,"Ilmakangas, Miss. Ida Livija",0,910,3,0,female,1,STON/O2. 3101270,39,0.0
+71,23.0,,S,8.05,3,"Drapkin, Miss. Jennie",0,1030,3,1,female,0,SOTON/OQ 392083,40,0.0
