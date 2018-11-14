@@ -1,0 +1,9 @@
+PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,ID,Prediction
+933,1,"Franklin, Mr. Thomas Parham",male,,0,0,113778,26.55,D34,S,1,0
+965,1,"Ovies y Rodriguez, Mr. Servando",male,28.5,0,0,PC 17562,27.7208,D43,C,1,1
+1050,1,"Borebank, Mr. John James",male,42,0,0,110489,26.55,D22,S,1,0
+1128,1,"Warren, Mr. Frank Manley",male,64,1,0,110813,75.25,D37,C,4,0
+1137,1,"Kenyon, Mr. Frederick R",male,41,1,0,17464,51.8625,D21,S,2,0
+1193,2,"Malachard, Mr. Noel",male,,0,0,237735,15.0458,D,C,6,0
+1296,1,"Frauenthal, Mr. Isaac Gerald",male,43,1,0,17765,27.7208,D40,C,3,0
+1297,2,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",male,20,0,0,SC/PARIS 2166,13.8625,D38,C,,0

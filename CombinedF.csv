@@ -1,0 +1,6 @@
+,PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,ID,Prediction
+0,1001,2,"Swane, Mr. George",male,18.5,0,0,248734,13.0,F,S,2,1
+1,1214,2,"Nesson, Mr. Israel",male,26.0,0,0,244368,13.0,F2,S,5,1
+0,949,3,"Abelseth, Mr. Olaus Jorgensen",male,25.0,0,0,348122,7.65,F G63,S,1,0
+1,1180,3,"Mardirosian, Mr. Sarkis",male,,0,0,2655,7.2292,F E46,C,3,0
+2,1213,3,"Krekorian, Mr. Neshan",male,25.0,0,0,2654,7.2292,F E57,C,4,0
